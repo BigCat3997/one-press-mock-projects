@@ -9,11 +9,11 @@ import com.bigcat3997.library.service.MyService;
 
 @SpringBootApplication(scanBasePackages = "com.bigcat3997.library")
 @RestController
-public class DemoApplication {
+public class WeatherForecastApplication {
 
 	private final MyService myService;
 
-	public DemoApplication(MyService myService) {
+	public WeatherForecastApplication(MyService myService) {
 		this.myService = myService;
 	}
 
@@ -23,6 +23,6 @@ public class DemoApplication {
 	}
 
 	public static void main(String[] args) {
-		SpringApplication.run(DemoApplication.class, args);
+		SpringApplication.run(WeatherForecastApplication.class, args);
 	}
 }

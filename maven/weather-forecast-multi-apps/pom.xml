@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.bigcat3997</groupId>
-    <artifactId>multi-projects-api</artifactId>
+    <artifactId>weather-forecast-multi-apps</artifactId>
     <version>1.0.0</version>
     <packaging>pom</packaging>
 
