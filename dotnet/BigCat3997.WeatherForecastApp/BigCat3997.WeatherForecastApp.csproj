@@ -9,7 +9,7 @@
 
   <ItemGroup>
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
-    <PackageReference Include="BigCat3997.DemoLibrary.Dotnet6" Version="1.0.0" />
+    <PackageReference Include="BigCat3997.WeatherForecastLib" Version="1.0.0" />
   </ItemGroup>
 
 </Project>
